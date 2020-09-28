@@ -5,7 +5,7 @@ title: OWASP El Salvador
 tags: example-tag
 level: 0
 
-region: Latin America
+region: North America
 
 auto-migrated: 1
 
