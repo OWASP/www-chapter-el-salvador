@@ -4,9 +4,7 @@ layout: col-sidebar
 title: OWASP El Salvador
 tags: example-tag
 level: 0
-
-region: North America
-
+region: Central America
 auto-migrated: 1
 
 ---
