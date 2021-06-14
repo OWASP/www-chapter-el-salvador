@@ -4,9 +4,8 @@ layout: col-sidebar
 title: OWASP El Salvador
 tags: example-tag
 level: 0
-
-region: North America
-
+region: Central America
+meetup-group: owasp-el-salvador-meetup-group
 auto-migrated: 1
 
 ---
@@ -17,6 +16,14 @@ This is an example of a Project or Chapter page.
 Please change these items to indicate the actual information you wish to present. In addition to this information, the 'front-matter' above the text should be modified to reflect your actual information.  An explanation of each of the front-matter items is below:
 
 {front matter for this file}
+
+### Upcoming Meetings
+
+We schedule our meetings on the [TBA Meetup Group](https://www.meetup.com/TBA/)
+
+{% include chapter_events.html group=page.meetup-group %}
+
+Our meetings are open to the public, and you do not need to be a member to attend. Please do consider [joining OWASP](https://owasp.org/membership/) if you find our community, projects, and meetings valuable, or sponsoring this chapter.
 
 ```
 - layout: This is the layout used by project and chapter pages.  You should leave this value as col-sidebar
