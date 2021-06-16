@@ -10,6 +10,12 @@ auto-migrated: 1
 
 ---
 
+### Upcoming Meetings
+
+We schedule our meetings on the [OWASP El Salvador Meetup](https://www.meetup.com/owasp-el-salvador-meetup-group/)
+
+{% include chapter_events.html group=page.meetup-group %}
+
 
 <!-- Standard Chapter Page Template
 This is an example of a Project or Chapter page.
