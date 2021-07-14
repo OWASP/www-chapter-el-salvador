@@ -6,7 +6,7 @@ tags: example-tag
 level: 0
 region: Central America
 meetup-group: owasp-el-salvador-meetup-group
-auto-migrated: 1
+
 
 ---
 
