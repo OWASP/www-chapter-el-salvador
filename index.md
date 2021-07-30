@@ -20,7 +20,7 @@ meetup-group: owasp-el-salvador-meetup-group
 <img src="assets/images/torogoz-owasp.png" alt=""/>
 </p>
 
-### Bienvenid@s al Capítulo OWASP de El Salvador
+### Bienvenid@s al capítulo OWASP de El Salvador
 
 El capítulo OWASP El Salvador tiene como objetivo compartir conocimientos con todas las personas interesadas en la cultura de la seguridad informática, así también compartir conocimientos de cómo encontrar vulnerabilidades en aplicaciones Web, móviles y también cómo prevenirlas, basándose en los documentos y guías Top 10 de OWASP, además de otros recursos disponibles en la Red.
 
@@ -30,7 +30,7 @@ Estaremos agendando nuestras charlas virtuales o futuras reuniones presenciales 
 
 Nuestros eventos (charlas o talleres), están dispuestas para todo público y no necesitas ser miembro de OWASP para asistir. Sin embargo, si consideras valiosos los aportes por parte de nuestra comunidad a través de charlas, talleres o proyectos de OWASP, puedes considerar [unirte como miembro](https://owasp.org/membership/) o patrocinar este Capítulo (puedes ponerte en contacto con los líderes para más detalles de patrocinio).
 
-### Participation
+### Participación
 
 El Proyecto Abierto de Seguridad de Aplicaciones Web (OWASP) es una fundación sin fines de lucro que trabaja para mejorar la seguridad del software. Todos los proyectos, herramientas, documentos, foros, y capítulos son libres para cualquier persona interesada en mejorar la seguridad de las aplicaciones. 
 
