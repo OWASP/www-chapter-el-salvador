@@ -6,7 +6,6 @@ tags: OwaspSV
 level: 0
 region: Central America
 country: El Salvador
-currency: USD, BTC
 postal-code:
 meetup-group: owasp-el-salvador-meetup-group
 
